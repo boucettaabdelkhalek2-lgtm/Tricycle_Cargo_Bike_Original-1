@@ -1,32 +1,53 @@
-# 🚲 Tricycle Cargo Bike (Open Hardware Project)
+# Tricycle Cargo Bike Project
 
-An open-source, human-powered cargo tricycle designed for sustainable local transport and delivery. Built for repairability, local manufacturing, and community impact.
+## Overview
+The Tricycle Cargo Bike is an open-source project designed to provide an eco-friendly, cost-effective transportation solution for urban environments. This innovative bike allows you to transport goods and passengers conveniently, helping to reduce carbon emissions and reliance on motor vehicles.
 
-## 📂 Project Contents
+## Features
+- **Eco-Friendly Design:** Built with sustainable materials to minimize environmental impact.
+- **Spacious Cargo Area:** Adequate space to transport various types of goods.
+- **Sturdy Construction:** Engineered for durability and reliability in diverse weather conditions.
+- **User-Friendly Assembly:** Designed with simplicity in mind for easy assembly and disassembly.
 
-- `CAD/` – All STEP and DXF design files
--  https://cdata.oho.wiki/images/5/55/Wl_tcb_STP-files.zip
-- `docs/` – Manuals, technical drawings, and reports in PDF
--  https://cdata.oho.wiki/images/e/e4/Wl_tcb_tricycle_cargo_bike_B.pdf
-- `images/` – Real photos and renders of the prototype
-- `BOM.csv` – Bill of materials for all components
-- `metadata.yml` – Open Know-How metadata
-- `index.html` – Full technical documentation
-- `.github/workflows/` – GitHub Actions automation
+## Specifications
+- **Dimensions:** [Specify dimensions here]
+- **Weight Capacity:** [Specify weight capacity]
+- **Materials Used:** [List materials]
+- **Tire Size:** [Specify tire size]
 
-## 🔧 Build It Yourself
+## Getting Started
+To get started with the Tricycle Cargo Bike project, follow these steps:
+1. **Clone the Repository:**  
+   `git clone https://github.com/boucettaabdelkhalek2-lgtm/Tricycle_Cargo_Bike_Original-1.git`
+2. **Install Dependencies:**  
+   [List any dependencies and installation instructions]
+3. **Explore the Documentation:**  
+   [Link to documentation]
 
-All required files are provided to build this tricycle with basic fabrication tools or CNC machines. Follow the `docs/Assembly_Instructions.pdf`.
- https://www.werkstatt-lastenrad.de/index.php?title=Lastenrad-Workshop_vom_20.-22._Januar_in_der_ODC
+## Assembly Instructions
+1. **Parts List:** Refer to the Bill of Materials (BOM) below.
+2. **Assembly Steps:**  
+   - Step 1: [Description of Step 1]
+   - Step 2: [Description of Step 2]
+   - Step 3: [Description of Step 3]
+   - [Continue with further steps]
 
-## 📜 License
+## Bill of Materials
+| Part Name          | Quantity | Supplier           | Cost   |
+|--------------------|----------|--------------------|--------|
+| [Part Name 1]     | [Qty]    | [Supplier 1]       | [Cost] |
+| [Part Name 2]     | [Qty]    | [Supplier 2]       | [Cost] |
 
-Licensed under GNU AGPLv3 – [LICENSE](LICENSE)
+*Add all necessary parts and relevant information.*
 
-## 🌐 Links
-
-- 🌍 [OHO Wiki Project Page](https://en.oho.wiki/index.php?title=Tricycle_Cargo_Bike_Original)
-- 🛠️ [GitHub Repository](https://github.com/boucettaabdelkhalek2/OHO-Tricycle-Cargo-Bike)
-- 📄 [Zenodo DOI – Coming Soon](https://zenodo.org/)
+## Community Guidelines
+We encourage collaboration and contributions from everyone interested in the Tricycle Cargo Bike project. Please adhere to the following guidelines:
+- **Be Respectful:** Treat all community members with respect and kindness.
+- **Collaborate Effectively:** Share your ideas and be open to feedback.
+- **Contribute:** Feel free to contribute via pull requests, issues, and discussions. Please ensure to follow the coding standards defined in our documentation.
+- **Report Issues:** If you encounter bugs or have suggestions, please report them in the issues section.
 
 ---
+The Tricycle Cargo Bike project is open for contributions and we welcome enthusiastic individuals to join us in making sustainable transportation accessible for all! 
+
+For more information, please check the [project wiki](insert-link).
